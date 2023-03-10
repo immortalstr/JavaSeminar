@@ -1,5 +1,5 @@
-import java.lang.reflect.Type;
-import java.util.Random;
+// import java.lang.reflect.Type;
+// import java.util.Random;
 
 // public class program {
 //     public static void main(String[] args) {
@@ -67,17 +67,17 @@ import java.util.Random;
 //     }
 // }
 
-/**
- * program
- */
-public class program {
+// /**
+//  * program
+//  */
+// public class program {
 
-    public static void main(String[] args) {
-        int i = 123;
-        i = i-- - --i;
-        System.out.println(i);
-    }
-}
+//     public static void main(String[] args) {
+//         int i = 123;
+//         i = i-- - --i;
+//         System.out.println(i);
+//     }
+// }
 
 // public class Main {
 
