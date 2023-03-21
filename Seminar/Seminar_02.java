@@ -1,4 +1,5 @@
 import java.util.StringTokenizer;
+
 public class Seminar_02 {
    
         public static void main(String[] args) {
