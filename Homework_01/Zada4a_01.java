@@ -6,7 +6,7 @@
 
 // Пункты реализовать в методе main
 // *Пункты реализовать в разных методах
-
+package Homework_01;
 import java.util.Arrays;
 import java.util.Random;
 

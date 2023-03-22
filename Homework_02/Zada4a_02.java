@@ -1,3 +1,4 @@
+package Homework_02;
 public class Zada4a_02 {
     public static void main(String[] args) {
 //        1. Напишите программу, чтобы найти вхождение в строке (содержащей все символы другой строки).
