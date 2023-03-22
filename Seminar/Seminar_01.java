@@ -1,4 +1,3 @@
-package Seminar;
 // import java.lang.reflect.Type;
 // import java.util.Random;
 
