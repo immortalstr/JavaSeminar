@@ -1,3 +1,4 @@
+package Homework_04;
 import java.util.*;
 
 public class Zada4a_04 {
